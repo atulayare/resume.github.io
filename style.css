@@ -1,0 +1,11 @@
+.back {
+    height: 100%;
+    width: 100%;
+    background: url(./images/cvbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+input[type=radio] {
+    width: 20px;
+    height: 20px;
+}
